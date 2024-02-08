@@ -1,0 +1,10 @@
+.project-card {
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    --tw-bg-opacity: 1;
+    background-color: rgb(15 35 54 / var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(242 232 223 / var(--tw-text-opacity));
+    padding: 16px;
+    border-radius: 12px;
+}

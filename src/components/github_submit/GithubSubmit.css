@@ -1,0 +1,29 @@
+.input-bar {
+    font-size: large;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    height: 52px;
+    width: 1024px;
+    border-radius: 48px;
+    background-color: rgb(89 82 79);
+
+}
+
+
+.submit {
+    font-size: large;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    height: 52px;
+    width: 512px;
+    border-radius: 52px;
+    background-color: rgb(33 76 117);
+}
+
+.submit:hover {
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 300ms;
+    scale: 1.1;
+    filter: brightness(.95);
+}

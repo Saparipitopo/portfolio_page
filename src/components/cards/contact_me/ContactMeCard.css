@@ -1,0 +1,12 @@
+.contact-me-card {
+    text-align: justify;
+    position: absolute;
+    z-index: 1;
+    height: auto;
+    width: 24rem/* 384px */;
+    --tw-bg-opacity: 1;
+    background-color: rgb(51 65 85 / var(--tw-bg-opacity));
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 2px;
+}

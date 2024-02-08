@@ -1,0 +1,11 @@
+.project-tag {
+    height: 30px;
+    display: grid;
+    place-items: center;
+    scale: .85;
+    --tw-text-opacity: 1;
+    color: rgb(242 232 223 / var(--tw-text-opacity));
+    --tw-bg-opacity: 1;
+    background-color: rgb(26 60 92 / var(--tw-bg-opacity));
+    border-radius: 20px;
+}
